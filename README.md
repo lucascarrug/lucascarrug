@@ -17,6 +17,7 @@ void Profile(void)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 
 ![GIF de Giphy](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnpldWVyODAzb3I3ZHQ2YTJtOWx4ZHZuNXk4M3Jod3NxeWdpNjE1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/T5nP7Nwu5FzMc/giphy.gif)
 
