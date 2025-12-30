@@ -5,8 +5,8 @@ void Profile(void)
 {
   printf("I'm studying Industrial Informatics and Robotics 🤖");
   printf("Passionate about computer vision 👀, and creating computer games 🎮");
-  vector<string> code = ["C", "C++", "Python"];
-  vector<string> tools = ["Arduino", "OpenCV", "Godot"];
+  vector<string> code = {"C", "C++", "Python"};
+  vector<string> tools = {"Arduino", "OpenCV", "Godot"};
 }
 ```
 
